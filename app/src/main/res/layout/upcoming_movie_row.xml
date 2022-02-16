@@ -12,6 +12,7 @@
         android:layout_height="wrap_content"
         android:text="Upcoming Movies"
         android:textStyle="bold"
+        android:textColor="@color/purple_200"
         android:textSize="20sp"/>
 
     <androidx.recyclerview.widget.RecyclerView
